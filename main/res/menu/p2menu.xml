@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:title="Change Background Color"
+        android:id="@+id/p1"/>
+    <item android:title="Go To Main Activity"
+        android:id="@+id/p2"/>
+    <item android:title="Show Toast message"
+        android:id="@+id/p3"/>
+    <item android:title="Change Theme "
+        android:id="@+id/p4"/>
+    <item android:title="Image Visibility"
+        android:id="@+id/p5"/>
+</menu>
